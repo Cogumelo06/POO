@@ -1,8 +1,8 @@
-# Exercício 1 – Retângulo
+# Exercicio 1 – Retângulo
 
 - Classe Principal
 
-``` Java
+```  Java
 package poligono;
 
 public class Principal {
