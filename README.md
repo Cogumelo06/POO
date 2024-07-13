@@ -3,6 +3,7 @@
 
 ### Ciência da Computação - ICET/UFJ
 ### Dicente: Mateus Campos Rodrigues
+### Professora: Bruna Mota
 
 
 ## Projetos já criados
